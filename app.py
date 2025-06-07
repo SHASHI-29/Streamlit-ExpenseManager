@@ -45,4 +45,7 @@ with col1:
 
 with col2:
     st.subheader("Bar Chart")
-    st.pyplot(plot_bar_chart(by_category))
+    if not by_category.empty:
+        st.pyplot(plot_bar_chart(by_category))
+    else:
+        st.write("No data available to plot.")
