@@ -55,7 +55,7 @@ It uses **in-memory session state** (no database) for lightweight, temporary usa
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ExpenseManager.git
+git clone https://github.com/shashi-29/ExpenseManager.git
 cd ExpenseManager
 
 # Install required packages
