@@ -6,7 +6,7 @@ A simple, interactive **Streamlit-based** web application designed to manage and
 
 ## 🔗 Live Demo
 
-👉 [Launch ExpenseManager on Streamlit](#) *(https://app-expensemanager.streamlit.app/)*
+👉 [Launch ExpenseManager on Streamlit](#) *([https://app-expensemanager.streamlit.app/])*
 
 ## 📝 Description
 
